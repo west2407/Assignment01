@@ -1,0 +1,57 @@
+body {
+ font-family: sans-serif;
+ font-size:  18px;
+ line-height: 1.5;
+ border-top: 5px solid #a4a6a8;
+ border-bottom: 5px solid #a4a6a8;
+ margin: 30px auto;
+ width: 800px;
+ padding: 50px;
+ background-color: #F6F6F6;
+
+}
+
+nav {
+  text-align: center;
+  color: #a4a6a8;
+}
+
+nav ul{
+  list-style-type: none;
+  padding: 0px;
+
+}
+
+.current_page {
+  font-style: italic;
+}
+
+nav li{
+  display: inline-block;
+
+
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 0px;
+  color: #333333;
+  font-family: Arimo;
+}
+.Avatar {
+  height: 200px;
+  float: right;
+  border: 1px solid #a4a6a8;
+  padding: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+a {
+  font-weight: bold;
+  color: #a4a6a8;
+  text-decoration: none;
+  font-weight: lighter;
+}
